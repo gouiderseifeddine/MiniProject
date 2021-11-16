@@ -11,7 +11,7 @@ Our application is name Khademni and is developped in Swift for The client and i
 
 ## Links
 
-- [Backend for NFT marketplace](https://github.com/Gouiderseifeddine/MiniProject/)
+- [Backend for NFT marketplace](https://github.com/gouiderseifeddine/MiniProject/tree/master)
 
 ## Available Commands
 
