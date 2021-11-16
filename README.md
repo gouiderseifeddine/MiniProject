@@ -11,7 +11,7 @@ Our application is name Khademni and is developped in Swift for The client and i
 
 ## Links
 
-- [Backend for NFT marketplace](https://github.com/Mejdi97/Backend/<project-name> "<project-name>")
+- [Backend for NFT marketplace](https://github.com/Gouiderseifeddine/MiniProject/)
 
 ## Available Commands
 
@@ -19,9 +19,10 @@ In the project directory, you can run:
 
 ### npm install" : "npm install express": "npm dev start",
 
-The app is built using JavaScript. Open [http://localhost:3000](http://localhost:3001) to test APIs with POSTMAN. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
+The app is built using JavaScript. Open [http://localhost:3000](http://localhost:3000) to test APIs with POSTMAN. You also need to run the server file as well to completely run the app. The page will reload if you make edits.
 You will also see any lint errors in the console.
-
+/worker is the path to check all the workers available 
+/worker/id is the path to check the worker with the id passed in parameters 
 ### "npm run build":,
 
 Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app will be ready to deploy!
